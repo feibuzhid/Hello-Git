@@ -1,0 +1,14 @@
+package org.example;
+
+/**
+ * @author chenyufei
+ * @version 1.0
+ * @date 2020/10/20 18:48
+ * @description HelloGit
+ */
+public class HelloGit {
+
+    public static void main(String[] args) {
+        System.out.println("Hello Git!!!!");
+    }
+}
